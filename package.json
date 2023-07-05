@@ -1,0 +1,27 @@
+{
+  "name": "@bobanum/theophile-reference",
+  "version": "0.0.1",
+  "description": "Theophile plugin to include external Web pages in a Theophile site / presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Boudreau",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobanum/theophile-reference.git"
+  },
+  "keywords": [
+    "Powerpoint",
+    "Webpage",
+    "Templating"
+  ],
+  "bugs": {
+    "url": "https://github.com/bobanum/theophile-reference/issues"
+  },
+  "homepage": "https://github.com/bobanum/theophile-reference#readme",
+  "license": "MIT",
+  "dependencies": {
+    "@bobanum/theophile": "^0.0.1"
+  }
+}
